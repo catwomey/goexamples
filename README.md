@@ -1,0 +1,1 @@
+This is a repository of different things i'm trying out in golang
